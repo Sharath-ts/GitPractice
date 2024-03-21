@@ -19,5 +19,15 @@ public class day1 {
 	public void PersonalLoanHigh() {
 		System.out.println("PersonalLoanHigh");
 	}
+	
+	@Test
+	public void PersonalLoanHigh1() {
+		System.out.println("PersonalLoanHigh1");
+	}
+	
+	@Test
+	public void PersonalLoanHigh2() {
+		System.out.println("PersonalLoanHigh2");
+	}
 
 }
