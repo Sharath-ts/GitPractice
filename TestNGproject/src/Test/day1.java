@@ -50,6 +50,16 @@ public class day1 {
 		System.out.println("PersonalLoanHigh6");
 	}
 	
+	@Test
+	public void PersonalLoanHigh7() {
+		System.out.println("PersonalLoanHigh6");
+	}
+	
+	@Test
+	public void PersonalLoanHigh8() {
+		System.out.println("PersonalLoanHigh6");
+	}
+	
 	
 
 }
