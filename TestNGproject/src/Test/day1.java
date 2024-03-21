@@ -29,5 +29,27 @@ public class day1 {
 	public void PersonalLoanHigh2() {
 		System.out.println("PersonalLoanHigh2");
 	}
+	
+	@Test
+	public void PersonalLoanHigh3() {
+		System.out.println("PersonalLoanHigh3");
+	}
+	
+	@Test
+	public void PersonalLoanHigh4() {
+		System.out.println("PersonalLoanHigh4");
+	}
+	
+	@Test
+	public void PersonalLoanHigh5() {
+		System.out.println("PersonalLoanHigh5");
+	}
+	
+	@Test
+	public void PersonalLoanHigh6() {
+		System.out.println("PersonalLoanHigh6");
+	}
+	
+	
 
 }
